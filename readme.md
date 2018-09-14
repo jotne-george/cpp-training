@@ -12,4 +12,10 @@ Java compiler
 
 C/C++ and GCC Compiler
 
-	gcc --version 
+	gcc --version
+
+## JNI with C++
+
+*Step 1: Write a Java class HelloJNI.java that uses C++ codes*
+
+
